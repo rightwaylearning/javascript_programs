@@ -26,8 +26,6 @@ function message(msg){
     };
 }
 
-
-
 var f1 = message("good morning");
 f1();
 
