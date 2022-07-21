@@ -1,0 +1,8 @@
+var a = "nike";  //global scope
+function show(){
+    var b = "raju";
+    console.log(a);
+    console.log(b);
+}
+console.log(a);
+show();
