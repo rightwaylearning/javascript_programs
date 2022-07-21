@@ -8,6 +8,3 @@ console.log(b);
 
 
 const k = 10;
-
-
-               
