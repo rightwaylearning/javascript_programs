@@ -43,9 +43,5 @@ let obj = {
     status:false
 };
 console.log(obj);
-
-//
-
-let r = "sachin"/2;
-console.log(r); // NaN
-
+let str6 = "He is 'good' boy";
+console.log(str6);
