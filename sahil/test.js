@@ -51,3 +51,8 @@ let obj = {
 console.log (obj);
 
 //-----------*************---------//
+let data ;  // undefined
+
+
+console.log(typeof data);
+console.log(data);
