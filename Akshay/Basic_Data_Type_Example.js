@@ -12,7 +12,7 @@
 let a = 20; //Number Data type
 console.log(a);
 
-// ------------------Bitint Datatype-----------------
+// ------------------Bigint Datatype-----------------
 
 let n = 3746587366348756783475638475643785; //Bignit Data type
 console.log(n);
